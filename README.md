@@ -1,0 +1,2 @@
+# Aprendizaje-supervisado-para-la-detecci-n-de-cobertura-en-Im-genes-Satelitales
+Metodología completa para la clasificación supervisada de imágenes satelitales usando modelos clásicos de machine learning. Incluye extracción de bandas, índices e indicadores de textura, preparación de datos y evaluación de modelos (KNN, SVM, RF, LR, Lasso, Probit). El repositorio contiene la tesis y el código reproducible.
